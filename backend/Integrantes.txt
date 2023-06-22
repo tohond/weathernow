@@ -1,0 +1,10 @@
+Cristian Camilo Paez Rodriguez-1152207
+Andres Felipe Camacho Ramirez-1152225
+Esteban Alejandro Baron Autesta-1152271
+Omar Alexis Palencia Claro-1152270
+
+github repo: https://github.com/tohond/weathernew.git
+
+Serverside:
+GlassFish 7
+Jakarta EE 8
